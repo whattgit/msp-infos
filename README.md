@@ -2,9 +2,7 @@
 
 > **Description GitHub** : Référence bilingue du client Flash MSP — pets, vêtements, looks, boutique, **74 services AMF** (846 endpoints + paramètres), rate limits, sécurité AMF, codes d'erreur.
 
-Documentation extraite du client Flash décompilé (`msp_client/scripts/`).  
-Les valeurs marquées **serveur** ne sont pas hardcodées dans le client et peuvent varier par région ou mise à jour.  
-Les valeurs **empiriques** proviennent d'observations communautaires ou d'outils du repo (`pets_msp/`, `test_script/pet_caress.py`) — à valider en jeu.
+Données extraites du client Flash **MovieStarPlanet 1**.
 
 ---
 
@@ -2109,9 +2107,7 @@ Chemin AMF : `MovieStarPlanet.WebService.Upload.AMFUploadService`
 
 # MSP Infos — Pets & mechanics reference
 
-Documentation extracted from the decompiled Flash client (`msp_client/scripts/`).  
-Values marked **server** are not hardcoded in the client and may vary by region or update.  
-**Empirical** values come from community observations or repo tools (`pets_msp/`, `test_script/pet_caress.py`) — verify in-game.
+Data extracted from the **MovieStarPlanet 1** Flash client.
 
 ---
 
