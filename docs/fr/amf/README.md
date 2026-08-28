@@ -1,6 +1,6 @@
 # Référence AMF — index
 
-> **FR** · [English](../../en/amf/README.md)
+> **FR** (secondaire) · [English](../../en/amf/README.md)
 
 **75 services · 861 endpoints**
 

@@ -1,6 +1,6 @@
 # English documentation
 
-> **EN** · [Français](../fr/README.md)
+> **EN** (primary) · [Français](../fr/README.md)
 
 | Section | Links |
 |---------|-------|
