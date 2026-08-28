@@ -8,7 +8,7 @@ Technical documentation extracted from the **MovieStarPlanet 1** Flash client �
 |---|---|
 | AMF services | **75** |
 | Endpoints | **861** |
-| Doc language | French (English hub: this file) |
+| Docs | [English](docs/en/) · [Français](docs/fr/) |
 
 ---
 
@@ -17,43 +17,43 @@ Technical documentation extracted from the **MovieStarPlanet 1** Flash client �
 ### I. Security & protocol
 | # | Document |
 |---|----------|
-| I.1 | [AMF security & integrity](docs/01-security.md) |
-| I.2 | [Rate limits & quotas](docs/02-rate-limits.md) |
-| I.3 | [Response codes](docs/03-error-codes.md) |
-| I.4 | [AMF protocol](docs/04-protocol.md) |
+| I.1 | [AMF security & integrity](docs/en/01-security.md) |
+| I.2 | [Rate limits & quotas](docs/en/02-rate-limits.md) |
+| I.3 | [Response codes](docs/en/03-error-codes.md) |
+| I.4 | [AMF protocol](docs/en/04-protocol.md) |
 
 ### II. Gameplay domains (detailed)
 | # | Document |
 |---|----------|
-| II.1 | [Pets & Bonsters](docs/05-pets-bonsters.md) |
-| II.2 | [Clothes, Looks & Shop](docs/06-clothes-looks-shopping.md) |
-| II.3 | [Gifts, Friends & Social](docs/07-gifts-friendship-social.md) |
-| II.4 | [Movies, Video & Content](docs/08-movies-video-content.md) |
-| II.5 | [Rooms, Profile & Rewards](docs/09-rooms-profile-awards.md) |
+| II.1 | [Pets & Bonsters](docs/en/05-pets-bonsters.md) |
+| II.2 | [Clothes, Looks & Shop](docs/en/06-clothes-looks-shopping.md) |
+| II.3 | [Gifts, Friends & Social](docs/en/07-gifts-friendship-social.md) |
+| II.4 | [Movies, Video & Content](docs/en/08-movies-video-content.md) |
+| II.5 | [Rooms, Profile & Rewards](docs/en/09-rooms-profile-awards.md) |
 
 ### III. Full AMF reference (75 services · 861 endpoints)
-→ **[AMF index](docs/amf/README.en.md)**
+→ **[AMF index](docs/en/amf/README.md)**
 
 | Category | File |
 |----------|------|
-| III.1. Administration & infrastructure (116 ep.) | [docs/amf/01-admin.md](docs/amf/01-admin.md) |
-| III.2. Authentication & session (168 ep.) | [docs/amf/02-auth.md](docs/amf/02-auth.md) |
-| III.3. Avatar & clothes (29 ep.) | [docs/amf/03-avatar.md](docs/amf/03-avatar.md) |
-| III.4. Looks (17 ep.) | [docs/amf/04-looks.md](docs/amf/04-looks.md) |
-| III.5. Shop & spending (31 ep.) | [docs/amf/05-shop.md](docs/amf/05-shop.md) |
-| III.6. Rooms (12 ep.) | [docs/amf/06-rooms.md](docs/amf/06-rooms.md) |
-| III.7. Pets AMF (56 ep.) | [docs/amf/07-pets.md](docs/amf/07-pets.md) |
-| III.8. Movies (34 ep.) | [docs/amf/08-movies.md](docs/amf/08-movies.md) |
-| III.9. Video & YouTube (35 ep.) | [docs/amf/09-video.md](docs/amf/09-video.md) |
-| III.10. Social (82 ep.) | [docs/amf/10-social.md](docs/amf/10-social.md) |
-| III.11. Gifts (38 ep.) | [docs/amf/11-gifts.md](docs/amf/11-gifts.md) |
-| III.12. Scrapblog, photos & design (82 ep.) | [docs/amf/12-content.md](docs/amf/12-content.md) |
-| III.13. Media (12 ep.) | [docs/amf/13-media.md](docs/amf/13-media.md) |
-| III.14. Quests & rewards (43 ep.) | [docs/amf/14-rewards.md](docs/amf/14-rewards.md) |
-| III.15. Competitions (26 ep.) | [docs/amf/15-competitions.md](docs/amf/15-competitions.md) |
-| III.16. Forum, news & activities (39 ep.) | [docs/amf/16-community.md](docs/amf/16-community.md) |
-| III.17. Highscores & themes (26 ep.) | [docs/amf/17-highscores.md](docs/amf/17-highscores.md) |
-| III.18. Clubs (15 ep.) | [docs/amf/18-clubs.md](docs/amf/18-clubs.md) |
+| III.1. Administration & infrastructure | [docs/en/amf/01-admin.md](docs/en/amf/01-admin.md) |
+| III.2. Authentication & session | [docs/en/amf/02-auth.md](docs/en/amf/02-auth.md) |
+| III.3. Avatar & clothes | [docs/en/amf/03-avatar.md](docs/en/amf/03-avatar.md) |
+| III.4. Looks | [docs/en/amf/04-looks.md](docs/en/amf/04-looks.md) |
+| III.5. Shop & spending | [docs/en/amf/05-shop.md](docs/en/amf/05-shop.md) |
+| III.6. Rooms | [docs/en/amf/06-rooms.md](docs/en/amf/06-rooms.md) |
+| III.7. Pets AMF | [docs/en/amf/07-pets.md](docs/en/amf/07-pets.md) |
+| III.8. Movies | [docs/en/amf/08-movies.md](docs/en/amf/08-movies.md) |
+| III.9. Video & YouTube | [docs/en/amf/09-video.md](docs/en/amf/09-video.md) |
+| III.10. Social | [docs/en/amf/10-social.md](docs/en/amf/10-social.md) |
+| III.11. Gifts | [docs/en/amf/11-gifts.md](docs/en/amf/11-gifts.md) |
+| III.12. Scrapblog, photos & design | [docs/en/amf/12-content.md](docs/en/amf/12-content.md) |
+| III.13. Media | [docs/en/amf/13-media.md](docs/en/amf/13-media.md) |
+| III.14. Quests & rewards | [docs/en/amf/14-rewards.md](docs/en/amf/14-rewards.md) |
+| III.15. Competitions | [docs/en/amf/15-competitions.md](docs/en/amf/15-competitions.md) |
+| III.16. Forum, news & activities | [docs/en/amf/16-community.md](docs/en/amf/16-community.md) |
+| III.17. Highscores & themes | [docs/en/amf/17-highscores.md](docs/en/amf/17-highscores.md) |
+| III.18. Clubs | [docs/en/amf/18-clubs.md](docs/en/amf/18-clubs.md) |
 
 ---
 
