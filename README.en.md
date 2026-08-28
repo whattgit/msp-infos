@@ -4,8 +4,6 @@
 
 Technical documentation extracted from the **MovieStarPlanet 1** Flash client — AMF protocol, gameplay, rate limits, error codes and **861 documented endpoints**.
 
-**Raw data:** [_amf_params.json](_amf_params.json) · [_amf_catalog.txt](_amf_catalog.txt) · [_endpoint_details.json](_endpoint_details.json)
-
 | | |
 |---|---|
 | AMF services | **75** |
